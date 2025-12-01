@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/9d52f10f-bfb7-4d3c-b37b-7e62a53ca1e9" width="80%" alt="AC Odyssey Indo Banner">
 </p>
 
-# Assassin's Creed Odyssey Bahasa Indonesia – Full DLC & Karakter Pria/Wanita
+# A**ssassin's Creed Odyssey Bahasa Indonesia – Full DLC & Karakter Pria/Wanita**
 **Versi: 1.0**  
 Diterjemahkan oleh **Roby Gaming**
 
@@ -15,32 +15,23 @@ Dengan terjemahan rapi & mudah dipahami, kamu bisa lebih fokus menikmati alur ce
 
 ---
 
-## 📥 Download
+## 📥 **Download**
 Kunjungi halaman **Releases** untuk mengunduh versi terbaru:  
-👉 https://github.com/USERNAME/REPO/releases
+👉 https://github.com/Robygaming26/Assassin-s-Creed-Odyssey-Bahasa-Indonesia-Full-DLC-Karakter-Pria-Wanita-Final/releases/
 
 ---
 
-## 📝 Changelog
+## 📝 **Changelog**
 ### v1.0
 - Rilis awal MOD Bahasa Indonesia  
 - Mendukung semua DLC  
 - Mendukung karakter pria & wanita  
 - Terjemahan dialog, UI, menu, dan elemen penting gameplay  
 
----
-
-## 📦 Cara Instal
-1. Download file ZIP dari halaman Releases.  
-2. Extract file.  
-3. Copy semua file MOD ke direktori game **Assassin’s Creed Odyssey (PC)**.  
-4. Jalankan game seperti biasa.
-
-> *Pastikan game sudah ter-install lengkap beserta DLC.*
 
 ---
 
-## 📸 Preview
+## 📸 **Preview**
 
 <img src="https://github.com/user-attachments/assets/9bb72276-2a33-41b8-a6b3-2f57989adeab" width="80%">
 <img src="https://github.com/user-attachments/assets/fc32fbe6-0a04-421a-9260-86ba61a65c23" width="80%">
@@ -49,25 +40,27 @@ Kunjungi halaman **Releases** untuk mengunduh versi terbaru:
 
 ---
 
-## 💬 Dukungan & VIP Member
+## 💬 **Dukungan & VIP Member**
 Dukung pengembangan mod lainnya melalui Trakteer:  
 https://trakteer.id/robygaming26
 
 Akses VIP Member berisi:
-- Update lebih cepat  
-- File khusus & eksklusif  
-- Informasi changelog lanjutan  
-- Link komunitas khusus (dalam file download)
+- Unlock Link Game Tanpa Iklan  
+- Unlock Link Cheat/Mod Game Tanpa Iklan  
+- Bisa Langsung Download Melalui Link Sudah Disediakan (Tidak Termasuk Mod Premium/Berbayar)
+- Dukungan Jika Link Download Game Cheat/Mod Mati.
 
 ---
 
-## ⚠️ Catatan
-Hak cipta penuh milik Ubisoft.  
-Mod ini hanya berupa terjemahan, **tidak menyertakan file game apa pun**.
+## ⚠️ **Catatan**
+- Jika ada error atau crash bisa lapor dikomentar, atau di komunitas discord
+- Sebelum timpa file, kamu bisa backup terlebih dahulu buat jaga-jaga
+- Gunakan Save Baru untuk menghindari error/crash.
+
 
 ---
 
-## ❤️ Terima kasih!
+## ❤️ **Terima kasih!**
 Terima kasih sudah menggunakan MOD Bahasa Indonesia ini.  
 Ikuti Roby Gaming untuk update terbaru lainnya.
 
